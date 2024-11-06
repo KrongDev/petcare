@@ -1,0 +1,6 @@
+rootProject.name = 'petcare'
+include 'boot'
+include 'profile'
+include 'config'
+include 'utils'
+
